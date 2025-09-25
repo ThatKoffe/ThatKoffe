@@ -1,5 +1,5 @@
 # Hi
-I am a Software Engineer. I work at [AminoApps](https://github.com/AminoApps) ;b 
+I am a Software Engineer ;b 
 
 ## What do I do?
 I work with frontend and backend technologies like: React, Svelte, NodeJS (typescript hehe), python and more.
